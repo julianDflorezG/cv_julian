@@ -10,9 +10,7 @@ AOS.init();
 new Typed(".typing",{
 strings:[
 "Backend Developer",
-"Automation",
-"Future Software Engineer",
-"Cybersecurity Enthusiast"
+"Future Software Engineer"
 ],
 // Velocidad al escribir letras.
 typeSpeed:60,
